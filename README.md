@@ -23,7 +23,7 @@ The GST Management System is built using the following technologies:
 - **Programming Language**: Python 3.13
 - **Data Structures**: Lists, Dictionaries
 - **Object-Oriented Programming (OOP)**: Classes and Objects to model the system and products.
-- **Terminal-based Interface**: The system is a console-based application, providing an interactive menu-driven interface.
+- **Postman**: we need to install postman api to run the get put on server
 
 
 ## Features :
